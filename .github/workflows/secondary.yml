@@ -1,4 +1,4 @@
-name: SAM Validate, Build, Test
+name: Template Validator
 on:
   pull_request:
     branches: [ main ]
